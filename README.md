@@ -23,7 +23,8 @@
 * Windows 7 Professional
 * Android Studio 3.1
 * Android ver 4x以上
-* Android SDK 3.0.0以上
+* Android SDK v3
+  - SDK v2系だと動作しないので注意
 
 ※上記内容で動作確認をしています
 
